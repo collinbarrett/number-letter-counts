@@ -1,0 +1,22 @@
+plugins {
+    id 'java'
+    id 'idea'
+    id 'eclipse'
+    id 'application'
+}
+
+application {
+    mainClass = 'com.m1finance.NumberLetterCounter'
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testImplementation('org.junit.jupiter:junit-jupiter:5.5.2')
+}
+
+test {
+    useJUnitPlatform()
+}

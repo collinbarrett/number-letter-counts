@@ -1,0 +1,15 @@
+C:\Users\cbarrett\source\repos\NumbersAndLetters\bin\Debug\net6.0\NumbersAndLetters.exe
+C:\Users\cbarrett\source\repos\NumbersAndLetters\bin\Debug\net6.0\NumbersAndLetters.deps.json
+C:\Users\cbarrett\source\repos\NumbersAndLetters\bin\Debug\net6.0\NumbersAndLetters.runtimeconfig.json
+C:\Users\cbarrett\source\repos\NumbersAndLetters\bin\Debug\net6.0\NumbersAndLetters.dll
+C:\Users\cbarrett\source\repos\NumbersAndLetters\bin\Debug\net6.0\NumbersAndLetters.pdb
+C:\Users\cbarrett\source\repos\NumbersAndLetters\obj\Debug\net6.0\NumbersAndLetters.csproj.AssemblyReference.cache
+C:\Users\cbarrett\source\repos\NumbersAndLetters\obj\Debug\net6.0\NumbersAndLetters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbarrett\source\repos\NumbersAndLetters\obj\Debug\net6.0\NumbersAndLetters.AssemblyInfoInputs.cache
+C:\Users\cbarrett\source\repos\NumbersAndLetters\obj\Debug\net6.0\NumbersAndLetters.AssemblyInfo.cs
+C:\Users\cbarrett\source\repos\NumbersAndLetters\obj\Debug\net6.0\NumbersAndLetters.csproj.CoreCompileInputs.cache
+C:\Users\cbarrett\source\repos\NumbersAndLetters\obj\Debug\net6.0\NumbersAndLetters.dll
+C:\Users\cbarrett\source\repos\NumbersAndLetters\obj\Debug\net6.0\refint\NumbersAndLetters.dll
+C:\Users\cbarrett\source\repos\NumbersAndLetters\obj\Debug\net6.0\NumbersAndLetters.pdb
+C:\Users\cbarrett\source\repos\NumbersAndLetters\obj\Debug\net6.0\NumbersAndLetters.genruntimeconfig.cache
+C:\Users\cbarrett\source\repos\NumbersAndLetters\obj\Debug\net6.0\ref\NumbersAndLetters.dll
